@@ -14,7 +14,7 @@ For Task 1, I've meticulously crafted a visually stunning landing page for a fic
 
 **Project Files:**
 - Screenshots:
-  - ![Desktop](link to desktop screenshot)
+  - ![link to desktop screenshot] : (http://127.0.0.1:5500/page.html)
   
 
 **Enhancements:**
