@@ -14,7 +14,7 @@ For Task 1, I've meticulously crafted a visually stunning landing page for a fic
 
 **Project Files:**
 - Screenshots:
-  - ![link to desktop screenshot] : (http://127.0.0.1:5500/page.html)
+  - ![link for landing page preview] : (http://127.0.0.1:5500/page.html)
   
 
 **Enhancements:**
@@ -31,7 +31,7 @@ Task 2 involved developing a feature-rich To-Do List application with HTML, CSS,
 
 **Project Files:**
 - Screenshots:
-  - ![Desktop](link to to-do list desktop screenshot)
+  - ![link for to-do-list preview] : (http://127.0.0.1:5500/to.html)
 
 **Enhancements:**
 - Adding task categories or labels for better organization.
