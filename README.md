@@ -38,3 +38,5 @@ Task 2 involved developing a feature-rich To-Do List application with HTML, CSS,
 - Implementing drag-and-drop functionality for task prioritization.
 
 ---
+
+
