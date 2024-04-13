@@ -14,7 +14,7 @@ For Task 1, I've meticulously crafted a visually stunning landing page for a fic
 
 **Enhancements:**
 - Implementing CSS animations for a delightful user experience.
-- Integrating a contact form for potential customers to reach out.
+- Integrating a contact form for potential customers to reach out. 
 
 ## To-Do List
 
